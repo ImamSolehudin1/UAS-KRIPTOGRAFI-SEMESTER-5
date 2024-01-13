@@ -34,11 +34,11 @@ Polialfabetik Cipher mengacu pada kelas enkripsi di mana satu huruf dalam teks d
 Berikut Screenshot dari program python polyalphabet chiper :
 Program :
 
-![gambar](Screenshot_gambar/program_polyalphabet.png)
+![gambar](Screenshot_gambar/program_polyaplhabet.png)
 
 Output :
 
-![gambar](Screenshot_gambar/output_polyaplhabet.png)
+![gambar](Screenshot_gambar/output_polyalphabet.png)
 
 ## 4. Hill Cipher
 
