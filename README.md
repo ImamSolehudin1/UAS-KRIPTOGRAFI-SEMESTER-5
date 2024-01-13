@@ -38,7 +38,7 @@ Program :
 
 Output :
 
-![gambar](Screenshot_gambar/output_polyalphabet.png)
+![gambar](Screenshot_gambar/output_polyaplhabet.png)
 
 ## 4. Hill Cipher
 
