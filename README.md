@@ -71,10 +71,10 @@ Berikut Screenshot dari program python affine chiper :
 Affine OTP adalah kombinasi antara Affine Cipher dan One-Time Pad. One-Time Pad adalah metode enkripsi yang menggunakan kunci acak sepanjang teks, dan ketika digabungkan dengan Affine Cipher, memberikan tingkat keamanan yang sangat tinggi.
 Berikut Screenshot dari program python affine otp :
 
-![gambar](program affine otp.png)
+![gambar/program affine otp.png]
 
 
-![gambar](output affine otp.png)
+![gambar](output_affine_otp.png)
 
 8. Steganografi
 
