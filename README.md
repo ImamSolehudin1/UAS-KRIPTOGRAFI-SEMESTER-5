@@ -58,7 +58,7 @@ Playfair Cipher adalah metode enkripsi n-gram (pasangan huruf). Dua huruf dari p
 Berikut Screenshot dari program python playfair chiper :
 Program :
 
-![gambar](Screenshot_gambar/program_playfair_cipher1.png)
+![gambar](Screenshot_gambar/program_playfair_cipher_1.png)
 
 ![gambar](Screenshot_gambar/program_playfair_cipher2.png)
 
@@ -72,10 +72,10 @@ Affine Cipher adalah metode enkripsi linier yang menggabungkan dua fungsi matema
 Berikut Screenshot dari program python affine chiper :
 Program :
 
-![gambar](Screenshot_gambar/program_affine_cipher1.png)
+![gambar](Screenshot_gambar/program_affine_cipher.png)
 
 
-![gambar](Screenshot_gambar/program_caesar_cipher2.png)
+![gambar](Screenshot_gambar/program_affine_cipher2.png)
 
 Output :
 
