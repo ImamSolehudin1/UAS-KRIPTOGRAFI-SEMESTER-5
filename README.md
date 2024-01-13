@@ -1,5 +1,9 @@
 # UAS-KRIPTOGRAFI-SEMESTER-5
 
+## Nama : Imam SOlehudin
+## Nim : 312110290
+## Mata Kuliah : Kriptografi
+
 ## 1. Caesar Cipher
 
 merupakan salah satu teknik enkripsi sederhana yang telah digunakan sejak zaman Romawi kuno. Teknik ini dinamakan sesuai dengan Julius Caesar, seorang jenderal Romawi yang terkenal, yang konon digunakan sandi ini untuk berkomunikasi secara aman dengan para jenderalnya.
